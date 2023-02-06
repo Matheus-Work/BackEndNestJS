@@ -8,7 +8,7 @@
 
 ## Description
 
-Minha aplicação BackEnd ligada no meu Banco de Dados MongoDB
+Minha aplicação BackEnd  utilizando a linguagem NestJS  ligada no meu Banco de Dados MongoDB
 
 ## Installation
 
